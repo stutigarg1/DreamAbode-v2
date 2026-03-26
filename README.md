@@ -1,9 +1,9 @@
-# DreamAbode 
+# Welcome to DreamAbode! 
 <div align="center">
 <img width="1024" height="418" alt="image" src="https://github.com/user-attachments/assets/dd7a347d-6a9b-49f5-a3dc-1af2a581be3c" />
 </div>
 
-** AMD Slingshot: A national startup idea challenge Theme: AI in Consumer Experiences**
+**AMD Slingshot: A national startup idea challenge Theme: AI in Consumer Experiences**
 
 # **DreamAbode- Where Ideas Become Homes**
 - DreamAbode is an AI-powered interior design engine that enables users to instantly visualize and redesign spaces in real-time. 
